@@ -105,13 +105,13 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 ```
-### lightdm config
+### Lightdm Config
 ```
 yay -S lightdm-slick-greeter
 nano /etc/lightdm/lightdm.conf (uncomment greeter-session and change greeter-session to lightdm-slick-greeter)
 sudo systemctl enable lightdm
 ```
-### themes
+### Themes
 ```
 yay -S arc-gtk-theme arc-icon-theme papirus-icon-theme
 ```
