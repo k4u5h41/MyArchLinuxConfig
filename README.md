@@ -69,6 +69,7 @@ passwd
 pacman -S sudo
 useradd -mG wheel username
 EDITOR=nano visudo
+passwd username
 ```
 ### Install NetworkManager
 ```
