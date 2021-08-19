@@ -1,1 +1,1 @@
-# -MyArchLinuxConfig
+# MyArchLinuxConfig
