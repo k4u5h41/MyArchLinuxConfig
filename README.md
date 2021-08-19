@@ -83,7 +83,6 @@ grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
 ```
-umount -a
 reboot
 ```
 ## Mate Installation
