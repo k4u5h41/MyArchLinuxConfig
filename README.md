@@ -83,6 +83,7 @@ grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
 ```
+exit -a
 reboot
 ```
 ## Mate Installation
