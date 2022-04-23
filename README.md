@@ -1,6 +1,6 @@
 # MyArchLinuxConfig
 
-💻 -1nf1n17yk1ng-
+💻 -k4u5h41-
 
 ## Arch Installation
 Download ISO : https://archlinux.org/download/
